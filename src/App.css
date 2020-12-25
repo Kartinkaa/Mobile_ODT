@@ -1,0 +1,30 @@
+body {
+    background-color: #c6d2e2;
+}
+.form{
+    padding: 10px;
+    width: 650px;
+    border-radius: 10px;
+    background: #FFFFFF 0 0 no-repeat padding-box;
+    box-shadow: 0 3px 6px #00000029;
+    opacity: 1;
+    font-size: 0.8em;
+    margin: auto;
+    margin-top: 10px;
+}
+.name{
+    opacity: 0.28;
+    margin: 0;
+}
+.text{
+    font-size: 17px;
+    margin: 0;
+}
+.photo{
+    padding: 20px 20px;
+    width: 70px;
+}
+.info{
+    width: 450px;
+    /*margin-left: 100px;*/
+}
